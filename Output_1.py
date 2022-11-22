@@ -1,6 +1,6 @@
 
 
-from color_number import *
+from Color_number import *
 from Number_from_color import *
 
 
