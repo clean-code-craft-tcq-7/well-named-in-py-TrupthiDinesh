@@ -1,4 +1,3 @@
-
 from Color_number import *
 from Number_from_color import *
 from Output_1 import *
