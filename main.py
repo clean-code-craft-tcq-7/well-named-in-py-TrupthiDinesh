@@ -1,5 +1,5 @@
-from Color_number import *
 from Number_from_color import *
+from Color_number import *
 from Output_1 import *
 
 if __name__ == '__main__':
