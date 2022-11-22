@@ -1,6 +1,6 @@
 
-from color_info import *
-from number_info import *
+from color_number import *
+from Number_from_color import *
 
 
 def print_total_output(min_number, max_number):
