@@ -1,7 +1,7 @@
 
-from Color_info import *
-from extracting_number_info import *
-from overall_output import *
+from Color_number import *
+from Number_from_color import *
+from Output_1 import *
 
 if __name__ == '__main__':
   pair_from_testnNumber(4, 'White', 'Brown')
